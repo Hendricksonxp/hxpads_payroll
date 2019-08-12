@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MoneyTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-08-08T14:50:35" hostname="FawltyKeboard.local" time="0.029">
+  <properties/>
+  <testcase name="dollarAdditionTest" classname="MoneyTest" time="0.024"/>
+  <testcase name="factoryTestUsingDouble" classname="MoneyTest" time="0.001"/>
+  <testcase name="dollarMultipicationByFractionTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="ofMinorTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="ofTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="cleanString" classname="MoneyTest" time="0.0"/>
+  <testcase name="additionTest" classname="MoneyTest" time="0.001"/>
+  <testcase name="dollarMultipicationTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="dollarSubractionTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="equalsTest" classname="MoneyTest" time="0.0"/>
+  <testcase name="factoryTestUsingParse" classname="MoneyTest" time="0.0"/>
+  <testcase name="creationTest" classname="MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
